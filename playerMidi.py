@@ -2,9 +2,9 @@
 #
 # playerMidi
 #
-# Author : Antoine-Alexis Bourdonw
+# Author : Antoine-Alexis Bourdon
 # Link : https://github.com/antoinealexisb/play_midi_python
-# Version : 0.1.0
+# Version : 0.1.1
 # Dependency : argparse, pygame
 #
 ###########################################
